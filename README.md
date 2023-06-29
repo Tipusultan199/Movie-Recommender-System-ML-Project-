@@ -1,5 +1,5 @@
 Report: Movie Recommendation Model Using Content-Based and Collaborative Filtering Approaches
-
+Dataset- https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 Introduction:
 In this report, we discuss the development and evaluation of a movie recommendation model using machine learning techniques. The model utilizes both content-based and collaborative filtering approaches to provide personalized movie recommendations. The dataset used for training and evaluation consists of two datasets: tmdb_5000_credits and tmdb_5000_movies, which were obtained from Kaggle.
 
